@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "maidmagi",
+  "private_key_id": "2f63aacdce5f0a76467c4c013b44e81450bcfaa8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxj+BGUrq3bqfl\nXKlU6gHsAcj+OYnlmFCXsAuCYp+6LYPg43SFGOUCLuhx8i7lKeXuMmxeBFvotSuc\nQfJkNMgzOECpK3w+CYoRFGNEdM2mHPCvugy6wIZIt637b9bj0mWFFN+WzCY4i80M\n8cbf2X10UKw+HHfffGTMVWSW5TVw849iUewio7BaaJHXQVDdvkBW+sa0Ka3l+CFo\nx6DMdZ/o0YXphlxUyNxBANgclB9XUHTb24UfGOMIBcEqJjfYdtnce2ns1XtBOn83\n/6sLS45eDx+OosvG0wbZa/J1d/3WCT8/ZT4l7e3+fqQrEf0BoRzShlFyUG2eaaBN\n3W9avGe7AgMBAAECggEAAf6jG3Va5530nVXjl08OHD/yqWo7nTqrsm+l2JADguV3\njgUx43ThsUWyhI/Xs+kelT3F/eBjjF+wNCyBewZBNtPdZFA6vqFxsSxQyvEwhjrA\nHBlB2D1zqEl384xCT0qnVjFjZEqBCaLqMMiXbHTIWZAoOBQurlWXLvVXgmJyH3db\nr3dUl+F24cIL8QORoiAzMHf5Z2z/7DPoxwp0qw47VNJLjaR60Sm+dNfNVS1JHw7z\nRKmHVkFrpcUhk7jiagUSIFH3nLjoFTDtF2tC+Anpam7/yB3FaUGNgeyptIKkO3DN\nm6rq21hT8+RN7V9AjwIsE6P06ds15097rXJ0o2m/sQKBgQD52iEfTXlCX/0jaoGL\nFl7dO8dYwjjQ/U7UiPH/UVUuHvX9zOOOUGorJjyoOM2p+l7zGPrPmHxGaLf9pNWZ\nF8Cv/rggl8sS9/or68Xp038yM7zmSeWvU2gUKzjRlQjpeDKhZ4xSqyFS9bhm8Hur\nf4ofNlJtT6xpnNxcq9CuKqOilQKBgQC17mBg7VTlPxmg0sNVdIS3LUOfm30HJP3N\nqhaj0IH7Hq1FN3AIP9QLdmXHFBYtEm3M2WVOmSAVhjqYfjM1qIzZj6+u29pzdN4r\nddRRL5xBTzCc8nIXJfc9MoGcQeg29J8AvcdZ9reF3N9CwBac6WEaV85RihBbOAJz\nS4lw3w8dDwKBgQCjsTaMJJzyUKMvZeMTdgeW2EhlrXG98oeIFWS/CtFM0zoFGwxn\nO+Yi+P06lWShHYjBqjcAdX3OP2N0CV9r2rUCWVbW+7wvZEoCJolXBZrLEDyNgBK8\nSF/i/uJN5V+eXoKFXqr/qmC90oEK6DmOBZQ/mL5uIYnq87sn9+VThloI9QKBgCkO\noMV/CfeqY9g9eEOixgiouGgeqPqhyH1Pc0iI16yaYbQLLMdP0ES99X4V9GM7k3f1\nX717JRh2cGbVpCzp2s+Gc7lceFIx/6mDL+Uaf4LloizpMgIzWTaAXWusHAG69t8t\n9P1Chmw5SlFAFFpY+Mb/JdqU89gCLdtjIqNMU5bVAoGBAPN9V8EA4XOcEzW9bRZ5\nuka2QldJrvH7Og3G8oIGXF5mGGjXJPIQQQ3ISEvJlSs1fJgEu6o21cvKaL6SmFBr\n1j4PTqRBa0MYO01f990Ap9AwGJYQv6qXiWop9oKAHQ9EONrx2LiOub9TkImGAGvm\ncSG1B5MrTfF69LLUXaQr9XHm\n-----END PRIVATE KEY-----\n",
+  "client_email": "maid-magi@maidmagi.iam.gserviceaccount.com",
+  "client_id": "101042468751813421786",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maid-magi%40maidmagi.iam.gserviceaccount.com"
+}
