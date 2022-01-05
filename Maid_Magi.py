@@ -4,7 +4,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from Dataflow import *
 
-token = 'OTI3NDk0MzkzOTA3MjczNzI4.YdLCdw.FnE4raXFyUINrvkEtgSi8LHuT50' # 봇 토큰 
+token = open('Token.txt','r').readline() # 봇 토큰 
 
 intents = discord.Intents.default()
 intents.members = True
